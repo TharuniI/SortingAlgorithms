@@ -1,9 +1,3 @@
-"""
-CSCI3070- Assignment 1
-Question 4: Heap Sort
-Tharuni Iranjan 100694352, Deepan Patel 100704821
-"""
-
 import math
 
 class heap:
