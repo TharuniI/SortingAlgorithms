@@ -16,5 +16,5 @@ Run the following commands on Ubuntu terminal for Python:
 python filename.py
 ```
 
-#Contributors 
+# Contributors 
 The Linear Sort and Heap Sort algorithms were created with fellow contributor deepan-patel.
